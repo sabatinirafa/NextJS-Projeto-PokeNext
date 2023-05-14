@@ -12,7 +12,7 @@ const Layout = ({children}) => {
         <title>Pokenext</title>
       </Head>
       <Navbar/>
-      <main>
+      <main className='main-container'>
         {children}
       </main>
       <Footer/>
