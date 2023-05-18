@@ -1,6 +1,6 @@
 # Projeto de Pokedex em NextJS
 
-<a href="[url-do-link](https://next-js-projeto-poke-next.vercel.app/)" target="_blank">Confira o projeto clicando aqui</a>
+<a href="https://next-js-projeto-poke-next.vercel.app/" target="_blank">Confira o projeto clicando aqui</a>
 
 ### [Confira o projeto clicando aqui](https://next-js-projeto-poke-next.vercel.app/){:target="_blank"}
 
